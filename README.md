@@ -11,7 +11,7 @@
 
 ### About
 
-Computer Science undergraduate at BMS College of Engineering, Bengaluru (2024–2028), and Vice President of Protocol BMSCE, the department's official CSE club.
+Computer Science undergraduate at BMS College of Engineering, Bengaluru (2024–2028, CGPA 9.43/10), and Vice President of Protocol BMSCE, the department's official CSE club.
 
 ### Leadership
 
