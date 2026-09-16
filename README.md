@@ -13,8 +13,6 @@
 
 Computer Science undergraduate at BMS College of Engineering, Bengaluru, and Vice President of Protocol BMSCE, the department's official CSE club.
 
-I work mostly on backend and systems software — job queues, databases, APIs — with a continuing interest in applied AI and retrieval. Outside code: design, occasionally competitively.
-
 <img src="assets/divider.svg" alt="" width="100%">
 
 ### Projects
