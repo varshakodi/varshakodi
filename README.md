@@ -5,13 +5,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/varsha-kodi-574979288/"><img src="https://img.shields.io/badge/LinkedIn-E1BEE7?style=for-the-badge&logo=linkedin&logoColor=4E4173" alt="LinkedIn"></a>
   <a href="https://github.com/varshakodi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-B3E5FC?style=for-the-badge&logo=github&logoColor=4E4173" alt="Repositories"></a>
+  <img src="https://img.shields.io/badge/CGPA-9.43%2F10-C8E6C9?style=for-the-badge&labelColor=E1BEE7" alt="CGPA 9.43/10">
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 ### About
 
-Computer Science undergraduate at BMS College of Engineering, Bengaluru (2024–2028, CGPA 9.43/10), and Vice President of Protocol BMSCE, the department's official CSE club.
+Computer Science undergraduate at BMS College of Engineering, Bengaluru (2024–2028), and Vice President of Protocol BMSCE, the department's official CSE club.
 
 ### Leadership
 
