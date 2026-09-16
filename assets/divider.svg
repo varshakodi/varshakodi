@@ -1,16 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="10" viewBox="0 0 1200 10" role="presentation">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="8" viewBox="0 0 1200 8" role="presentation">
   <defs>
     <linearGradient id="d" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#E1BEE7">
-        <animate attributeName="stop-color" values="#E1BEE7;#B3E5FC;#F8BBD0;#E1BEE7" dur="12s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#F8BBD0">
-        <animate attributeName="stop-color" values="#F8BBD0;#E1BEE7;#B3E5FC;#F8BBD0" dur="12s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#B3E5FC">
-        <animate attributeName="stop-color" values="#B3E5FC;#F8BBD0;#E1BEE7;#B3E5FC" dur="12s" repeatCount="indefinite"/>
-      </stop>
+      <stop offset="0%" stop-color="#E1BEE7"><animate attributeName="stop-color" values="#E1BEE7;#B3E5FC;#C8E6C9;#E1BEE7" dur="14s" repeatCount="indefinite"/></stop>
+      <stop offset="50%" stop-color="#C8E6C9"><animate attributeName="stop-color" values="#C8E6C9;#E1BEE7;#B3E5FC;#C8E6C9" dur="14s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#B3E5FC"><animate attributeName="stop-color" values="#B3E5FC;#C8E6C9;#E1BEE7;#B3E5FC" dur="14s" repeatCount="indefinite"/></stop>
     </linearGradient>
   </defs>
-  <rect width="1200" height="10" rx="5" fill="url(#d)"/>
+  <rect width="1200" height="8" rx="4" fill="url(#d)"/>
 </svg>
