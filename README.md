@@ -18,7 +18,7 @@ Computer Science undergraduate at BMS College of Engineering, Bengaluru (2024–
 <table>
   <tr>
     <td width="30%" valign="top"><b>Vice President</b><br><sub>Protocol BMSCE · Apr 2026 – present</sub></td>
-    <td valign="top">Lead the official CSE department club: planning and delivery of hackathons, workshops and technical events, coordinating the executive team, junior core, speakers and sponsors, from ideation through on-ground execution.</td>
+    <td valign="top">Leading the official CSE department club: planning and delivery of hackathons, workshops and technical events, coordinating the executive team, junior core, speakers and sponsors, from ideation through on-ground execution.</td>
   </tr>
   <tr>
     <td width="30%" valign="top"><b>Tech Junior Core</b><br><sub>Protocol BMSCE · Jul 2025 – Apr 2026</sub></td>
