@@ -15,7 +15,7 @@ Computer Science undergraduate at BMS College of Engineering, Bengaluru, and Vic
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-### Projects
+### Main Projects
 
 <table>
   <tr>
